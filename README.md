@@ -1,5 +1,7 @@
 # How-to-Use-Tensorflow-for-Time-Series-Live
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/How-to-Use-Tensorflow-for-Time-Series-Live-.svg)](https://www.guardrails.io)
+
 ##Overview
 
 This is the code for [this](https://youtu.be/ftMq5ps503w) video on Youtube by Siraj Raval part of the Udacity Deep Learning nanodegree. 
